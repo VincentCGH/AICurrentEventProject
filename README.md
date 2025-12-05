@@ -14,3 +14,6 @@ Team member's role:
 
 ### 2. Use Branches and Pull Requests
 - Each member creates a separate branch for their tasks- fpr traceability
+
+### 3. Final Question:
+- If regulators rely on tech providers for AI, who is really in control?
